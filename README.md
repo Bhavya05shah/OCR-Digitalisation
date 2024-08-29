@@ -24,5 +24,6 @@ by using contours and manually trying to find the number of columns
 <br>
 <br>
 For Image_processing file
+<br>
 Denoising and removing the borders of the image
 
